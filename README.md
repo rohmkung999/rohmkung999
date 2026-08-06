@@ -65,16 +65,5 @@ I thrive in high-pressure environments, focusing on teamwork, time management, a
 - 🥈 **Double Silver Medalist** - *Engineering Aptitude Competition* (Computer & Electrical Engineering, Regional Level).
 
 ---
-
-### 📊 GitHub Stats
-
-*(Note: Replace `YOUR_GITHUB_USERNAME` in the links below with your actual username)*
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Rohm's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Rohm's GitHub Streak" />
-</div>
-
----
 *“Innovation distinguishes between a leader and a follower.”*
 Email : thanawatkongchaiyantr@gmail.com
