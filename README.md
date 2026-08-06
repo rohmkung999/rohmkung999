@@ -1,16 +1,80 @@
-## Hi there 👋
+# Hi there, I'm Thanawat Kongchaiyantr (Rohm) 👋 🤖
 
-<!--
-**rohmkung999/rohmkung999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="mailto:thanawatkongchaiyantr@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+I am a passionate maker, programmer, and  student at ** King Mongkut's University of Technology Thonburi ** as a Computer Engineering major, with experience as an exchange student in Oregon. My core interests lie in **Robotics, AI, Computer Engineering, and IoT**. 
+
+I love bridging the gap between software and hardware. Whether it's training machine learning models for computer vision, soldering circuits for a companion robot, or building virtual metaverse experiences, I enjoy solving complex problems through technology.
+
+- 🎓 **Currently studying:** High School at Bangkok Christian College (Class of 2026)
+- 💡 **Interests:** Hardware Engineering, Artificial Intelligence, 3D Modeling, and Game Development.
+- 🌱 **Currently learning:** Advanced AI integrations, Supercomputer computing, and C++ for Microcontrollers.
+- 💬 **Ask me about:** Arduino, ESP32, 3D Printing (Onshape/Tinkercad), and Hackathon strategies!
+- ⚡ **Fun fact:** I love photography, traveling, and I was a video grapher for my high school varsity basketball team in the US!
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+**Languages & Software**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++_(Arduino)-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white" />
+
+**Hardware, Maker & IoT**
+<br>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/3D_Printing-FF6C00?style=for-the-badge&logo=thingiverse&logoColor=white" />
+<img src="https://img.shields.io/badge/Onshape_(CAD)-1B559A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Circuit_Design-4CAF50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Soldering-808080?style=for-the-badge" />
+
+---
+
+### 🚀 Featured Projects
+
+Here are some of the key hardware and software projects I've built:
+
+*   🤖 **Desktop Friend Robot:** A companion robot capable of interacting with users via display, touch, movement, and light. Built during my internship with the FIBO Academy Program.
+*   🛗 **Smart Elevator (CMKL AiCE WARP #3):** An innovative IoT and AI solution to improve elevator efficiency in high-traffic buildings utilizing **Computer Vision, Machine Learning, and Statistical Analysis** to reduce unnecessary stops.
+*   🏎️ **ESP32 Wi-Fi RC Car:** A remote-controlled car engineered using two ESP32 modules, programmed via Arduino IDE, utilizing Wi-Fi for seamless controller-to-car communication.
+*   🐕 **"Me Ped Walking" Quad-Legged Robot:** A robotic quadruped powered by an Arduino Nano and 8 servo motors. Exhibited at Treasure Valley Community College.
+*   🌐 **Thailand Metaverse Projects:** 
+    *   **BCC School Metaverse:** Lead developer for a virtual replica of Bangkok Christian College built in Roblox.
+    *   **My Conc. App:** A virtual concert simulation app providing immersive experiences without travel requirements.
+
+---
+
+### 🏆 Hackathons & Achievements
+
+I thrive in high-pressure environments, focusing on teamwork, time management, and rapid prototyping.
+
+- 🏅 **Finalist** - *Agentic AI For Healthcare Hackathon 2025* (Gained experience running code on a supercomputer).
+- 🏅 **Finalist** - *Thailand Metaverse Hackathon and Exhibition #1* (Chulalongkorn University).
+- 🥈 **2nd Runner-Up** - *UTCC Digital & AI Challenge 2025*.
+- 🎖️ **1st Place Honorable Mention** - *ICT Challenge 2025* (KMUTT - Ranked 4th out of 300+ teams).
+- 🥈 **Double Silver Medalist** - *Engineering Aptitude Competition* (Computer & Electrical Engineering, Regional Level).
+
+---
+
+### 📊 GitHub Stats
+
+*(Note: Replace `YOUR_GITHUB_USERNAME` in the links below with your actual username)*
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Rohm's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Rohm's GitHub Streak" />
+</div>
+
+---
+*“Innovation distinguishes between a leader and a follower.”*
+Email : thanawatkongchaiyantr@gmail.com
