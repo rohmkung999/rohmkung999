@@ -66,4 +66,5 @@ I thrive in high-pressure environments, focusing on teamwork, time management, a
 
 ---
 *“Innovation distinguishes between a leader and a follower.”*
+
 Email : thanawatkongchaiyantr@gmail.com
