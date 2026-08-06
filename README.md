@@ -1,9 +1,5 @@
 # Hi there, I'm Thanawat Kongchaiyantr (Rohm) 👋 🤖
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="mailto:thanawatkongchaiyantr@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
 
 ---
 
