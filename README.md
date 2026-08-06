@@ -65,6 +65,19 @@ I thrive in high-pressure environments, focusing on teamwork, time management, a
 - 🥈 **Double Silver Medalist** - *Engineering Aptitude Competition* (Computer & Electrical Engineering, Regional Level).
 
 ---
+### 🏕️ Tech Camps & Workshops
+
+I actively participate in university-level tech camps to expand my knowledge in Engineering, AI, and IoT:
+
+- 🌟 **AiCE WARP #3 (CMKL University):** Attended with a **Full Scholarship**. Worked on AI integrations and the *Smart Elevator* project while honing pitching, negotiation, and leadership skills.
+- 🤖 **RAI CAMP 2024 & 2026:** Focused on Robotics & AI Engineering. Passed the rigorous post-camp exams with scores above 80% both years.
+- ⚙️ **Engineering & IoT Camps:** 
+  - KMITL First Camp Pathway #4 (2024) & #5 (2025)
+  - SIIT Insight Camp (2025)
+  - TNI IT CAMP: IOT FUN FEST #16 (2024)
+- 💡 **Innovation Camps:** Participated in NSTDA One Day CAMP (2024) and BCC Innovation Camp (2023).
+
+---
 *“Innovation distinguishes between a leader and a follower.”*
 
 Email : thanawatkongchaiyantr@gmail.com
