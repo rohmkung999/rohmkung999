@@ -9,7 +9,7 @@ I am a passionate maker, programmer, and  student at ** King Mongkut's Universit
 
 I love bridging the gap between software and hardware. Whether it's training machine learning models for computer vision, soldering circuits for a companion robot, or building virtual metaverse experiences, I enjoy solving complex problems through technology.
 
-- 🎓 **Currently studying:** High School at Bangkok Christian College (Class of 2026)
+- 🎓 **Currently studying:** King Mongkut's University of Technology Thonburi
 - 💡 **Interests:** Hardware Engineering, Artificial Intelligence, 3D Modeling, and Game Development.
 - 🌱 **Currently learning:** Advanced AI integrations, Supercomputer computing, and C++ for Microcontrollers.
 - 💬 **Ask me about:** Arduino, ESP32, 3D Printing (Onshape/Tinkercad), and Hackathon strategies!
